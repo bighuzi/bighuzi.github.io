@@ -6,6 +6,7 @@ image:
 comments: false
 modified: 2015-04-04
 ---
+
 自从微软的MySpace挂掉而且我的blog也找不到之后，不写blog已经8年了。
 突然觉得还是写点什么的比较好。
 一个是为了记录平时思考的东西，
